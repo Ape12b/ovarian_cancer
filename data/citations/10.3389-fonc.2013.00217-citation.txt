@@ -1,0 +1,17 @@
+AUTHOR=Jones Paul, Drapkin Ronny
+	 
+TITLE=Modeling High-Grade Serous Carcinoma: How Converging Insights into Pathogenesis and Genetics are Driving Better Experimental Platforms  
+	
+JOURNAL=Frontiers in Oncology     
+	
+VOLUME=3      
+	
+YEAR=2013   
+		
+URL=https://www.frontiersin.org/articles/10.3389/fonc.2013.00217     
+	  
+DOI=10.3389/fonc.2013.00217    
+	
+ISSN=2234-943X   
+
+ABSTRACT=Recent developments in the study of epithelial ovarian cancer have called into question the traditional views regarding the site of tumor initiation. Histopathologic studies and genomic analyses suggest that extra-ovarian sites, like the fallopian tube, may harbor the coveted cell of origin and could therefore contribute significantly to the development of high-grade serous ovarian carcinoma (HG-SOC). Our ability to validate these emerging genomic and pathologic observations and characterize the early transformation events of HG-SOC hinges on the development of novel model systems. Currently, there are only a handful of new model systems that are addressing these concerns. This review will chronicle the convergent evolution of these ovarian cancer model systems in the context of the changing pathologic and genomic understanding of HG-SOC.
