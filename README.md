@@ -2,7 +2,7 @@
 
 Ovarian cancer is a diverse group of malignancies with various subtypes characterized by histological and molecular differences. Here's an overview of the major subtypes:
 
-![Ovarian Cancer Subtypes](data\images\ovarian_cancer.jpg)
+![Ovarian Cancer Subtypes](/data/images/ovarian_cancer.jpg)
 ## 1. Serous Carcinoma (CC)
 
 Serous carcinoma is the most common subtype of ovarian cancer. It is further divided into:
